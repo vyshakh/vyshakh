@@ -3,8 +3,7 @@
 
 I'm **Vyshakh Parakkat!** 
 
-- 🔭 I’m currently working on react-native, reactjs, NextJS, Python, CI/CD and Typescript
-- 🌱 I’m currently learning how to optimize my own code 😄
+- 🔭 I’m a seasoned programmer having experience on react-native, reactjs, NextJS, Python, CI/CD and Typescript
 - 💬 Ask me about anything related to react-native mobile app development and CI/CD
 - 📫 Reach me on https://www.linkedin.com/in/vyshakhparakkat/
 
