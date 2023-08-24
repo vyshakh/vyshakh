@@ -7,7 +7,7 @@ I'm **Vyshakh Parakkat!**
 - 💬 Ask me about anything related to react-native mobile app development and CI/CD
 - 📫 Reach me on https://www.linkedin.com/in/vyshakhparakkat/
 
-### I worked for
+### Previous work experience @
 
 - [DMT](https://www.dmt.gov.ae/en)
 - [Noon](https://noon.com)
