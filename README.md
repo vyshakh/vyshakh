@@ -15,5 +15,5 @@ I'm **Vyshakh Parakkat!**
 - [Sivvi](https://sivvi.com)
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyshakhparakkat/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vyshakhparakkat/](https://www.linkedin.com/in/vyshakhparakkat/?lan=en)) 
 
