@@ -13,7 +13,3 @@ I'm **Vyshakh Parakkat!**
 - [Noon](https://noon.com)
 - [Esanjo](https://esanjo.com)
 - [Sivvi](https://sivvi.com)
-
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vyshakhparakkat/](https://www.linkedin.com/in/vyshakhparakkat/?lan=en)) 
-
